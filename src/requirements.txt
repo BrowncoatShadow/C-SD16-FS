@@ -1,0 +1,1 @@
+adafruit_hid==4.3.0
